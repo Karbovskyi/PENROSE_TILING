@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79311970945941568d399da661d0dc7a, type: 3}
+  m_Name: KiteDart
+  m_EditorClassIdentifier: Assembly-CSharp::AGame.Code.Gameplay.Features.Tiles.TileDragLifecycle.Factory.TilesLibScriptableObject
+  Tiles:
+  - {fileID: 11400000, guid: 4f28055702873ee4494b40e93c25b329, type: 2}
+  - {fileID: 11400000, guid: 359b99bc0deb3cd4ab199035ec849b33, type: 2}

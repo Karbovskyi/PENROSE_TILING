@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AGame/Scenes/Boot.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/AGame/Scenes/Home.unity
+    guid: 194e536b41c2edc4bbfed68806712ab9
+  - enabled: 1
+    path: Assets/AGame/Scenes/Tilling.unity
+    guid: d49e04ae8dbbf69468cbaf9477b3ba7f
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: bd8da3b8dfa108940a51a723839ec432, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

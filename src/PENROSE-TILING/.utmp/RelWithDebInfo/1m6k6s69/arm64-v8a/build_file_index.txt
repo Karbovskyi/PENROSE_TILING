@@ -1,0 +1,2 @@
+E:\Unity Work\Unity Projects\PENROSE_TILING\PENROSE_TILING\src\PENROSE-TILING\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+E:\Unity Work\Unity Projects\PENROSE_TILING\PENROSE_TILING\src\PENROSE-TILING\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

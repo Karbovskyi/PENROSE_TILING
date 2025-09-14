@@ -1,0 +1,19 @@
+# ninja log v5
+20	3251	7795638054346430	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f5b4f95753edf1ea
+3997	4182	7795638064065748	E:/Unity Work/Unity Projects/PENROSE_TILING/PENROSE_TILING/src/PENROSE-TILING/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1m6k6s69/obj/arm64-v8a/libgame.so	5a82bc37c128a284
+14	3313	7795638054919024	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	84b0f126658601f3
+59	3764	7795638059616884	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b244960ef496b3bb
+32	3317	7795638055040788	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dcca96df528e2d22
+26	3470	7795638056570425	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f17d4054db86f6db
+52	3254	7795638054382034	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	265942a3eac01857
+44	3796	7795638059920006	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6a5e1ba6a469e533
+7	3996	7795638061738881	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5bfbe3e52bee1953
+26	1928	7795666508651330	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	265942a3eac01857
+10	1938	7795666508752386	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	f5b4f95753edf1ea
+20	1968	7795666509046026	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	84b0f126658601f3
+37	1971	7795666509072753	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dcca96df528e2d22
+15	2043	7795666509816895	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	f17d4054db86f6db
+31	2245	7795666511849758	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	6a5e1ba6a469e533
+5	2340	7795666512787990	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	5bfbe3e52bee1953
+43	2404	7795666513420918	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b244960ef496b3bb
+2404	2536	7795666514762782	E:/Unity Work/Unity Projects/PENROSE_TILING/PENROSE_TILING/src/PENROSE-TILING/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/1m6k6s69/obj/arm64-v8a/libgame.so	5a82bc37c128a284
