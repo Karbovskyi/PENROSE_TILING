@@ -1,0 +1,39 @@
+{
+  "buildFiles": [
+    "E:\\Unity Work\\Unity Projects\\Penrose-Tiling\\src\\PENROSE-TILING\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "E:\\Unity Work\\Unity Projects\\Penrose-Tiling\\src\\PENROSE-TILING\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\GameActivity\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "E:\\Unity Work\\Unity Programs\\Unity Editors\\Editors\\6000.0.33f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "E:\\Unity Work\\Unity Projects\\Penrose-Tiling\\src\\PENROSE-TILING\\.utmp\\RelWithDebInfo\\55h73204\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "E:\\Unity Work\\Unity Programs\\Unity Editors\\Editors\\6000.0.33f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\SDK\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "E:\\Unity Work\\Unity Projects\\Penrose-Tiling\\src\\PENROSE-TILING\\.utmp\\RelWithDebInfo\\55h73204\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "game::@d02bb112ea9f9c2ed29f": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "game",
+      "output": "E:\\Unity Work\\Unity Projects\\Penrose-Tiling\\src\\PENROSE-TILING\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\cxx\\RelWithDebInfo\\55h73204\\obj\\arm64-v8a\\libgame.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "E:\\Unity Work\\Unity Programs\\Unity Editors\\Editors\\6000.0.33f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "E:\\Unity Work\\Unity Programs\\Unity Editors\\Editors\\6000.0.33f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\NDK\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}
